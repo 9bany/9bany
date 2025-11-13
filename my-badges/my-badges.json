@@ -42,13 +42,6 @@
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 4 my own repositories.",
-    "body": "- <a href=\"https://github.com/9bany/git-switch\">9bany/git-switch</a>\n- <a href=\"https://github.com/9bany/create-tag-to-another-action\">9bany/create-tag-to-another-action</a>\n- <a href=\"https://github.com/9bany/ron\">9bany/ron</a>\n- <a href=\"https://github.com/9bany/curl-to-json\">9bany/curl-to-json</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
