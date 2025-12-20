@@ -40,5 +40,54 @@
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
     "body": "- <a href=\"https://github.com/9bany/git-switch/issues/42\">#42</a>",
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/9bany/topological-graph/commit/ad1d10c94e5596afe9232de26f6c2519d18d858d\"><strong>a</strong>d1d10c94e5596afe9232de26f6c2519d18d858d</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/valkey/commit/96d14fe2638705436db9c61bb0100c550c42e774\">96d14fe</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"signed-off-by:\".",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 52 times)\n2. 0del (used 52 times)\n3. <bany.y0599@gmail.com> (used 52 times)\n4. update (used 25 times)\n5. rename (used 24 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/sabledb/commit/f862cf8314e484acc68498f3c95833770261e8f4\">f862cf8</a>: fix review\n- <a href=\"https://github.com/9bany/sabledb/commit/161418da46d4005bf30c9fa779b6451a44338735\">161418d</a>: fix review code",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 4 my own repositories.",
+    "body": "- <a href=\"https://github.com/9bany/git-switch\">9bany/git-switch</a>\n- <a href=\"https://github.com/9bany/create-tag-to-another-action\">9bany/create-tag-to-another-action</a>\n- <a href=\"https://github.com/9bany/ron\">9bany/ron</a>\n- <a href=\"https://github.com/9bany/curl-to-json\">9bany/curl-to-json</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/db_engine/commit/ffaa848fd20f1c05f1f850a48b9837e912a45d90\">ffaa848</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/f6c7d50a78335b7743637ea5cb1aea4f40fb39a8\">f6c7d50</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/3e3e27bce88c9921c28b0ccbceb3c1b42e6d2654\">3e3e27b</a>\n- <a href=\"https://github.com/9bany/sabledb/commit/ae593f4ae58eb835f679da997781ca57599080fc\">ae593f4</a>\n- <a href=\"https://github.com/9bany/valkey/commit/730174445b72bb04c446c635d4c34041270b596b\">7301744</a>\n- <a href=\"https://github.com/9bany/cue/commit/7d03990a6dc7e77395266fc37a32c4cfa5070721\">7d03990</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/dome-agents/commit/3801decf160709104f814f4b22520b22c016f2d9\">3801dec</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/e288222dc97d1ff701b778aba4416f312adab660\">e288222</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/e937ba2d4c261d8ec7d8625a981bc3520115b0b5\">e937ba2</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/aeaf3c3db1e3934543e7fb7b3f7c05ec063015be\">aeaf3c3</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/255b5dda25404f5cb3e8a9792e6ad684d6018d91\">255b5dd</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/401fd5862fff0ac8c1b8326ca14b956d6d92a077\">401fd58</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   }
 ]
