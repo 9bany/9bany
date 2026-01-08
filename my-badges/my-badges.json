@@ -89,5 +89,12 @@
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/9bany/etl/commit/f4dde89288f69f4e0a2d54e38f4979e00d1b359a\">f4dde89</a>\n- <a href=\"https://github.com/9bany/dome-agents/commit/3801decf160709104f814f4b22520b22c016f2d9\">3801dec</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/e288222dc97d1ff701b778aba4416f312adab660\">e288222</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/e937ba2d4c261d8ec7d8625a981bc3520115b0b5\">e937ba2</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/aeaf3c3db1e3934543e7fb7b3f7c05ec063015be\">aeaf3c3</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/255b5dda25404f5cb3e8a9792e6ad684d6018d91\">255b5dd</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/r-cli0/commit/a992b6d9ecca3bdcbd9a233c3bdb134255729b2d\">a992b6d</a>\n- <a href=\"https://github.com/9bany/r-cli0/commit/98e13c7008b1fb1a6b7b4c53fa90ba9c2bf52e10\">98e13c7</a>\n- <a href=\"https://github.com/9bany/r-cli0/commit/a0a2fea6b88178619d43458eb6067b638d3b35c5\">a0a2fea</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
