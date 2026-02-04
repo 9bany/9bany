@@ -7,8 +7,8 @@ My favorite commit message words are:
 1. signed-off-by: (used 52 times)
 2. 0del (used 52 times)
 3. <bany.y0599@gmail.com> (used 52 times)
-4. update (used 25 times)
-5. rename (used 24 times)
+4. rename (used 24 times)
+5. update (used 22 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

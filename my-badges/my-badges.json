@@ -45,7 +45,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/9bany/topological-graph/commit/ad1d10c94e5596afe9232de26f6c2519d18d858d\"><strong>a</strong>d1d10c94e5596afe9232de26f6c2519d18d858d</a>",
+    "body": "- <a href=\"https://github.com/9bany/r-cli0/commit/a0a2fea6b88178619d43458eb6067b638d3b35c5\"><strong>a</strong>0a2fea6b88178619d43458eb6067b638d3b35c5</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 52 times)\n2. 0del (used 52 times)\n3. <bany.y0599@gmail.com> (used 52 times)\n4. update (used 25 times)\n5. rename (used 24 times)",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 52 times)\n2. 0del (used 52 times)\n3. <bany.y0599@gmail.com> (used 52 times)\n4. rename (used 24 times)\n5. update (used 22 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
