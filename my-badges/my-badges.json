@@ -45,7 +45,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/9bany/r-cli0/commit/a0a2fea6b88178619d43458eb6067b638d3b35c5\"><strong>a</strong>0a2fea6b88178619d43458eb6067b638d3b35c5</a>",
+    "body": "- <a href=\"https://github.com/9bany/valkey/commit/a1516d53defdad5cf5f65a4080b44e6a9fbdd889\"><strong>a</strong>1516d53defdad5cf5f65a4080b44e6a9fbdd889</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -77,13 +77,6 @@
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/r-cli0/commit/a992b6d9ecca3bdcbd9a233c3bdb134255729b2d\">a992b6d</a>\n- <a href=\"https://github.com/9bany/r-cli0/commit/98e13c7008b1fb1a6b7b4c53fa90ba9c2bf52e10\">98e13c7</a>\n- <a href=\"https://github.com/9bany/r-cli0/commit/a0a2fea6b88178619d43458eb6067b638d3b35c5\">a0a2fea</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
-  },
-  {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
@@ -101,14 +94,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/raftio/rune/pull/1\">#1</a>: poc",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/raftio/rune/pull/1\">#1</a>: poc\n- <a href=\"https://github.com/raftio/rune/pull/3\">#3</a>: clean up\n- <a href=\"https://github.com/raftio/rune/pull/4\">#4</a>: instruction-packages-in-Rulefile",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 4 my own repositories.",
-    "body": "- <a href=\"https://github.com/9bany/git-switch\">9bany/git-switch</a>\n- <a href=\"https://github.com/9bany/create-tag-to-another-action\">9bany/create-tag-to-another-action</a>\n- <a href=\"https://github.com/9bany/ron\">9bany/ron</a>\n- <a href=\"https://github.com/9bany/curl-to-json\">9bany/curl-to-json</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]

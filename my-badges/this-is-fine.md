@@ -5,6 +5,8 @@
 Pull requests:
 
 - <a href="https://github.com/raftio/rune/pull/1">#1</a>: poc
+- <a href="https://github.com/raftio/rune/pull/3">#3</a>: clean up
+- <a href="https://github.com/raftio/rune/pull/4">#4</a>: instruction-packages-in-Rulefile
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
