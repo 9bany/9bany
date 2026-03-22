@@ -7,6 +7,9 @@ Commits:
 - <a href="https://github.com/9bany/r-cli0/commit/a992b6d9ecca3bdcbd9a233c3bdb134255729b2d">a992b6d</a>
 - <a href="https://github.com/9bany/r-cli0/commit/98e13c7008b1fb1a6b7b4c53fa90ba9c2bf52e10">98e13c7</a>
 - <a href="https://github.com/9bany/r-cli0/commit/a0a2fea6b88178619d43458eb6067b638d3b35c5">a0a2fea</a>
+- <a href="https://github.com/9bany/.files/commit/811e8e193b46a7a46359ecf91317d0159f0a5dbd">811e8e1</a>
+- <a href="https://github.com/9bany/blog/commit/7281300386e5e8fdd137ad9adf09d386fe0c21e8">7281300</a>
+- <a href="https://github.com/9bany/blog/commit/b276e9c60c469ac43c955f3a60397da51382271b">b276e9c</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
