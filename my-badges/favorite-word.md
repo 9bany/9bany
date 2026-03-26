@@ -1,14 +1,14 @@
-<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="128">
-<strong>My favorite word is &quot;update&quot;.</strong>
+<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;signed-off-by:&quot;." title="My favorite word is &quot;signed-off-by:&quot;." width="128">
+<strong>My favorite word is &quot;signed-off-by:&quot;.</strong>
 <br><br>
 
 My favorite commit message words are:
 
-1. update (used 502 times)
-2. add (used 249 times)
-3. (done) (used 146 times)
-4. readme.md (used 140 times)
-5. test (used 121 times)
+1. signed-off-by: (used 52 times)
+2. 0del (used 52 times)
+3. <bany.y0599@gmail.com> (used 52 times)
+4. rename (used 24 times)
+5. #144 (used 22 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
