@@ -45,21 +45,21 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/9bany/valkey/commit/a1516d53defdad5cf5f65a4080b44e6a9fbdd889\"><strong>a</strong>1516d53defdad5cf5f65a4080b44e6a9fbdd889</a>",
+    "body": "- <a href=\"https://github.com/9bany/portfolio/commit/a105d27582231ff9c016788d17ca12d3ba3e212c\"><strong>a</strong>105d27582231ff9c016788d17ca12d3ba3e212c</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/valkey/commit/96d14fe2638705436db9c61bb0100c550c42e774\">96d14fe</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/valkey/commit/96d14fe2638705436db9c61bb0100c550c42e774\">96d14fe</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/e508a69c6edb7f28fd7cbb05fe2e7a0521a58a89\">e508a69</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/23a1c7186f6adcbdc849f9d4ad0883126de6dd37\">23a1c71</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 52 times)\n2. 0del (used 52 times)\n3. <bany.y0599@gmail.com> (used 52 times)\n4. rename (used 24 times)\n5. #144 (used 22 times)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 512 times)\n2. add (used 249 times)\n3. (done) (used 146 times)\n4. readme.md (used 140 times)\n5. test (used 121 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,21 +73,21 @@
     "id": "pi-day",
     "tier": 0,
     "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/ai-explore/commit/506d621342383dc4b41f01e9fd97d5757ac46414\">506d621</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/ai-explore/commit/506d621342383dc4b41f01e9fd97d5757ac46414\">506d621</a>\n- <a href=\"https://github.com/9bany/curl-to-json-cli/commit/a7ae0cb50aa7b18b30272744905bfb79f31b663c\">a7ae0cb</a>\n- <a href=\"https://github.com/9bany/curl-to-json/commit/e96564d840a904e914ee51bc68eeca69450f32d7\">e96564d</a>\n- <a href=\"https://github.com/9bany/curl-to-json/commit/85fab06d99eea1eda37cc8de716ce711a55aa4ce\">85fab06</a>\n- <a href=\"https://github.com/9bany/curl-to-json/commit/154d889b3caa2cc98969dc8d519391b69f922337\">154d889</a>\n- <a href=\"https://github.com/9bany/curl-to-json/commit/d5ce16a491ad8595b07cfe10fb2a87784b52f4d7\">d5ce16a</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/db_engine/commit/ffaa848fd20f1c05f1f850a48b9837e912a45d90\">ffaa848</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/f6c7d50a78335b7743637ea5cb1aea4f40fb39a8\">f6c7d50</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/3e3e27bce88c9921c28b0ccbceb3c1b42e6d2654\">3e3e27b</a>\n- <a href=\"https://github.com/9bany/sabledb/commit/ae593f4ae58eb835f679da997781ca57599080fc\">ae593f4</a>\n- <a href=\"https://github.com/9bany/valkey/commit/730174445b72bb04c446c635d4c34041270b596b\">7301744</a>\n- <a href=\"https://github.com/9bany/cue/commit/7d03990a6dc7e77395266fc37a32c4cfa5070721\">7d03990</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/portfolio/commit/57adefc9ebd57015786a2373b6d368906a75dca0\">57adefc</a>\n- <a href=\"https://github.com/9bany/portfolio/commit/62034237f22fada26609d356853b84b24bfcd5fa\">6203423</a>\n- <a href=\"https://github.com/9bany/portfolio/commit/93f3aa35f9c29fd74c3a485e47a602f8c354e51d\">93f3aa3</a>\n- <a href=\"https://github.com/9bany/portfolio/commit/31c2d1e4895d2f5ceb3b8d5498fb26cd7b2aa90b\">31c2d1e</a>\n- <a href=\"https://github.com/9bany/l-learn/commit/b9cc772e09eab1592b4a1954e1475c78cd15cff1\">b9cc772</a>\n- <a href=\"https://github.com/9bany/l-learn/commit/8725d8657f9745bee5c6ce4742920bd2c9d54c81\">8725d86</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/etl/commit/f4dde89288f69f4e0a2d54e38f4979e00d1b359a\">f4dde89</a>\n- <a href=\"https://github.com/9bany/dome-agents/commit/3801decf160709104f814f4b22520b22c016f2d9\">3801dec</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/e288222dc97d1ff701b778aba4416f312adab660\">e288222</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/e937ba2d4c261d8ec7d8625a981bc3520115b0b5\">e937ba2</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/aeaf3c3db1e3934543e7fb7b3f7c05ec063015be\">aeaf3c3</a>\n- <a href=\"https://github.com/9bany/db_engine/commit/255b5dda25404f5cb3e8a9792e6ad684d6018d91\">255b5dd</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/portfolio/commit/3acec18e7927c38950205bab9495e10add603cc6\">3acec18</a>\n- <a href=\"https://github.com/9bany/curl-to-json/commit/8cfe5a39c7034e973d30548255b8b22f11722744\">8cfe5a3</a>\n- <a href=\"https://github.com/9bany/curl-to-json/commit/3b67be5a19d1a6110048476670645f0a85e9b4ff\">3b67be5</a>\n- <a href=\"https://github.com/9bany/curl-to-json/commit/4541f107e471ff288f95e04a36c56f73c017a8c9\">4541f10</a>\n- <a href=\"https://github.com/9bany/curl-to-json/commit/6a06862d8c5e49d71a808a38429304056a8b258c\">6a06862</a>\n- <a href=\"https://github.com/9bany/l-learn/commit/a3c8509f743a58705eb9b003386d8521c8d8cf46\">a3c8509</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -96,5 +96,110 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/raftio/rune/pull/1\">#1</a>: poc\n- <a href=\"https://github.com/raftio/rune/pull/3\">#3</a>: clean up\n- <a href=\"https://github.com/raftio/rune/pull/4\">#4</a>: instruction-packages-in-Rulefile",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/9bany/git-switch/commit/ab6dca5eecc25882a1461306935550da17ef9073\"><strong>ab</strong>6dca5eecc25882a1461306935550da17ef9073</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/9bany/slack_images_bot/commit/cafe9c9b94ae21a9c79f6749af6ff113af59893e\"><strong>cafe</strong>9c9b94ae21a9c79f6749af6ff113af59893e</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/9bany/learn/commit/e1da67fcc38add25c135e1849deadb4a23977d26\">e1da67fcc38add25c135e1849<strong>dead</strong>b4a23977d26</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/portfolio/commit/7d830a6f775a692cfb2aa6a7a5ef48aefcfe20a2\">7d830a6</a>\n- <a href=\"https://github.com/9bany/portfolio/commit/b2e417520a1cd755afef25593a628a0ecd501d32\">b2e4175</a>\n- <a href=\"https://github.com/9bany/portfolio/commit/5b3edf14ab916bfafa314ded637b1166030dfd81\">5b3edf1</a>\n- <a href=\"https://github.com/9bany/portfolio/commit/f191ae592c6809779c1f9dd7300a73caeba25e48\">f191ae5</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/workflows/commit/62bdfcaf5cae09739e9a456fdc071806c1f4955b\">62bdfca</a>: fix: change ping message\n- <a href=\"https://github.com/9bany/workflows/commit/d1833d0a279505d41af52aa53053e651cdb1a99b\">d1833d0</a>: fix: update pong message\n- <a href=\"https://github.com/9bany/workflows/commit/11cd30b3010801102c3d0e9fbb4daccf4bc654f8\">11cd30b</a>: fix: start script",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/website/commit/4cede6f4bc26381d71748b5c378a7a8e37ef8d98\">4cede6f</a>: fix get version error\n- <a href=\"https://github.com/9bany/website/commit/71b687bef6f45f9bff480dff86cd07be63e37302\">71b687b</a>: fix get version error\n- <a href=\"https://github.com/9bany/website/commit/e16db28ff306352a78b178a5327b0a996b6294ce\">e16db28</a>: fix get version error\n- <a href=\"https://github.com/9bany/website/commit/8e7ff94c5dc1c5ed63b5e05c50804c8c3d6b58c6\">8e7ff94</a>: fix get version error",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/git-switch/commit/5cbb63f13c32f72efc0c469f83f06d8c9f1c50df\">5cbb63f</a>: fix/bumb-removetag (#193)\n- <a href=\"https://github.com/9bany/git-switch/commit/7610208f6744189fe617bda6b071c70d04e049cf\">7610208</a>: fix/bump-cicd-kpenfound/action-homebrew-bump-formula@v3.3.1 (#192)\n- <a href=\"https://github.com/9bany/git-switch/commit/c9fe0e6c4694a6f70cb5547a9fd6bc3f8202be2c\">c9fe0e6</a>: fix/bump-tag (#191)\n- <a href=\"https://github.com/9bany/git-switch/commit/0d8ba4af9b6e988ddb341cd334cf33d8b6197f36\">0d8ba4a</a>: fix/bump-upload-home-brew-to-kpenfound/action-homebrew-bump-formula@3.3.1 (#190)\n- <a href=\"https://github.com/9bany/git-switch/commit/7ce1df7b547c629273311a8ee637403523da11eb\">7ce1df7</a>: fix/release.yml-failed-file (#189)\n- <a href=\"https://github.com/9bany/git-switch/commit/60ea143d268673b161c195101dfd8a4a8bef4db5\">60ea143</a>: fix/fix-prefix (#188)",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/git-switch/commit/ea741d4ddfd05927e94cf7db8aab8ad2be3cd94c\">ea741d4</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/71e3c4c1e5f769cf8c3a3c105e2e495b673962ff\">71e3c4c</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/1f095b45e7b387fd13dd2810ea93428632c8b8a1\">1f095b4</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/5225a341891b7e39a6ca4e8f922f538020c69575\">5225a34</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/9ae8b1b4d87dca484055341707b535ded2981c41\">9ae8b1b</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/80fdbb7ec213679c484c57836bdfa78994c43d62\">80fdbb7</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/f3d453a20a8b8dedb237918b673e79b241b81893\">f3d453a</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/5c99d599963f714776a9d2fa547eb8421192c771\">5c99d59</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/766c3c15be1791a7b3f617c5e9af9621b5e7fdc5\">766c3c1</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/6f9b29450bee643608787b0b13670eb4ff72205d\">6f9b294</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/30ff5cb5fcfc26c54e4f1e553665e98d1bf79c76\">30ff5cb</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/41c958c3bb8749c8caba9a0c72a34eb2b41ef714\">41c958c</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/2150a78a230234b4af9b791174f7d4fd2bd99434\">2150a78</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/.emacs/commit/b85b7483e36479b5c5f810348d918d0464ae0494\">b85b748</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/leaky-bucket/commit/54ced21de480249b6a61b2ed8e4f4a2dad9ef7f4\">54ced21</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/js-dsa/commit/c7f608c2299a7ab4e8ee151dbdea666a2ccb4966\">c7f608c</a>\n- <a href=\"https://github.com/9bany/js-dsa/commit/8018536328ed902bf07f75bd7e47828fdd8f6602\">8018536</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/61a8ca7fb95bc9648c6f147f8c81abf68d4f49c3\">61a8ca7</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/67ad6c2abd5535ba8266002746c99922dc6823e4\">67ad6c2</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/e28ab6d40e6f7d6f1e87778a71f9248eced28af3\">e28ab6d</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/4407fb14bd6a0bcf19b54b86556c8f3841041ac9\">4407fb1</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/.emacs/commit/6f57157251163f6a959f573967038a40365e22f3\">6f57157</a>\n- <a href=\"https://github.com/9bany/.emacs/commit/794a2d816ab5a00e94d0fcf2e0326fdb63866f6d\">794a2d8</a>\n- <a href=\"https://github.com/9bany/.emacs/commit/cfc568a9adb0e1a510c29f2af9f8f6a640b86489\">cfc568a</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/r-cli0/commit/a992b6d9ecca3bdcbd9a233c3bdb134255729b2d\">a992b6d</a>\n- <a href=\"https://github.com/9bany/r-cli0/commit/98e13c7008b1fb1a6b7b4c53fa90ba9c2bf52e10\">98e13c7</a>\n- <a href=\"https://github.com/9bany/r-cli0/commit/a0a2fea6b88178619d43458eb6067b638d3b35c5\">a0a2fea</a>\n- <a href=\"https://github.com/9bany/.files/commit/811e8e193b46a7a46359ecf91317d0159f0a5dbd\">811e8e1</a>\n- <a href=\"https://github.com/9bany/blog/commit/7281300386e5e8fdd137ad9adf09d386fe0c21e8\">7281300</a>\n- <a href=\"https://github.com/9bany/blog/commit/b276e9c60c469ac43c955f3a60397da51382271b\">b276e9c</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/l-learn/commit/49ddb263f4996a1ae227b181a4f16253da7fa010\">49ddb26</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/5bfe8563d15ac41cc62cf1a246c6ee41f12c09d5\">5bfe856</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/aac6082818c54a4331822962eaf2258010ca4e19\">aac6082</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/c83ab789d4f03ed633c749314d734d59c5ab3232\">c83ab78</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/6ffc58b12d08fb30a3785303ad90f161171552c9\">6ffc58b</a>\n- <a href=\"https://github.com/9bany/git-switch/commit/a145e807b83ab0e9afe5157de35f7816426d5968\">a145e80</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/9bany/0del/commit/b3c9511e93f24517481945b4cb5947144d6ea696\">b3c9511</a>\n- <a href=\"https://github.com/9bany/pterm/commit/8735b0ce62e590b7868078047b2c7be2e0d7048a\">8735b0c</a>\n- <a href=\"https://github.com/9bany/pterm/commit/eabd0b30a78a0c81b9fd14b733122bf1bd5b8537\">eabd0b3</a>\n- <a href=\"https://github.com/9bany/slack_images_bot/commit/7ef56a67858e874af82c0412b62e5e3d3518af05\">7ef56a6</a>\n- <a href=\"https://github.com/9bany/slack_images_bot/commit/43aa21c8188ed26c63e35951587408b1a1aeeeb3\">43aa21c</a>\n- <a href=\"https://github.com/9bany/slack_images_bot/commit/a34034fceda387a2f86941e073e30215fa5ca41f\">a34034f</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
