@@ -8,5 +8,4 @@ Hello there! 👋
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <a href="my-badges/public-keys-3.md"><img src="https://my-badges.github.io/my-badges/public-keys-3.png" alt="I have three public keys" title="I have three public keys" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 4 my own repositories." title="I&apos;ve starred 4 my own repositories." width="64"></a>
 <!-- my-badges end -->
